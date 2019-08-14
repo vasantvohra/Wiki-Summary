@@ -18,8 +18,12 @@ Wikipedia.summary(input(), sentences=5, chars=1, auto_suggest=True, redirect=Tru
    - Parts of Speech tagging
    - ENT - Entity recognition model
    - Dependancy parsing
+  >
  
   > Further 
+   - Topic modelling
    - Integrated word vectors
    - Sentiment analysis
    - Coreference resolution
+
+Training Neural Network for NLP and Speech processing
